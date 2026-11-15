@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Olá! Eu sou desenvolvedor em aprendizado
 
-<!--
-**jonasbiel2019-bit/jonasbiel2019-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estou estudando programação e desenvolvimento web, buscando evoluir minhas habilidades e construir projetos cada vez melhores.
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Atualmente estudando desenvolvimento web.
+- 🌱 Aprendendo HTML, CSS e JavaScript.
+- 🛠️ Desenvolvendo projetos para praticar e aprimorar meus conhecimentos.
+- 🎯 Meu objetivo é evoluir como desenvolvedor e construir meu portfólio.
+
+💻 Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>📌 Projetos
+
+📝 Lista de Tarefas
+
+Aplicação desenvolvida com HTML, CSS e JavaScript.
+
+- Adicionar e excluir tarefas.
+- Marcar tarefas como concluídas.
+- Alternar entre tema claro e escuro.
+
+🔗 "Acessar repositório" (https://github.com/jonasbiel2019-bit/Lista-de-tarefas)
+
+---
+
+📫 Contato :
+Jonasbiel.2019@gmail.com 
+
+Você pode acompanhar meus projetos e minha evolução por aqui mesmo no GitHub.
+
+⭐ Obrigado pela visita!

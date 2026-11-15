@@ -1,4 +1,4 @@
-👋 Olá! Eu sou desenvolvedor em aprendizado
+👋 Olá! Sou desenvolvedor em aprendizado
 
 💻 Estou estudando programação e desenvolvimento web, buscando evoluir minhas habilidades e construir projetos cada vez melhores.
 
